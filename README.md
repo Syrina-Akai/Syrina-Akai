@@ -1,4 +1,9 @@
 ### Hi there 👋
+👩‍💻 I'm Syrine, an AI student at USTHB. I'm passionate about coding and solving puzzles.
+
+🧩 Whether it's writing code or tackling challenging problems, I love to dive in and find solutions.
+
+🚀 Feel free to check out my GitHub profile to see some of my projects and contributions.
 
 <!--
 **Syrina-Akai/Syrina-Akai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
