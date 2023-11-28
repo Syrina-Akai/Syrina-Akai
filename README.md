@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 
-👩‍💻 I'm Syrine, an AI student at USTHB. I'm passionate about coding and solving puzzles.
+👩‍💻 I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
 🧩 Whether it's writing code or tackling challenging problems, I love to dive in and find solutions.
 
