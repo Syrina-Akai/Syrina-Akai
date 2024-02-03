@@ -15,11 +15,11 @@
        alt="snake" /></a>
 </div>
 
-🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
+- 🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
-✨ Whether it's writing code or tackling challenging problems, I love to dive in and find solutions.
+- ✨ Whether it's writing code or tackling challenging problems, I love to dive in and find solutions.
 
-🚀 Feel free to check out my GitHub profile to see some of my projects and contributions.
+- 🚀 Feel free to check out my GitHub profile to see some of my projects and contributions.
 
 
 
