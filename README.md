@@ -10,9 +10,6 @@
 🚀 Feel free to check out my GitHub profile to see some of my projects and contributions.
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
 
 <div id="user-content-toc">
   <ul align="center">
@@ -22,7 +19,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,express,github,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nodejs,postman,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,docker,github,html,idea,java,js,md,mongodb,mysql,nodejs,postman,py,react,vscode&perline=14" />
   </a>
 </p>
 <!--
