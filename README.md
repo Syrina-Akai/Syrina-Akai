@@ -1,7 +1,20 @@
-<h1 align="center"><b>Hi there ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **About me**
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nishant</h1></summary>
+  </ul>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About me</h2></summary>
+  </ul>
+</div>
 
 🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
