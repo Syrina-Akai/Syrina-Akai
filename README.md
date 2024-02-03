@@ -3,8 +3,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
 ✨ Whether it's writing code or tackling challenging problems, I love to dive in and find solutions.
