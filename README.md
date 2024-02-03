@@ -9,6 +9,11 @@
   </ul>
 </div>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
