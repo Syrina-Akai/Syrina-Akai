@@ -9,12 +9,6 @@
   </ul>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">About me</h2></summary>
-  </ul>
-</div>
 
 🧙‍♀️ I'm Syrine, an AI engineer graduated from USTHB. I'm passionate about coding and solving puzzles.
 
